@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F11%2F14%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[DOS命令]]></title>
+    <url>%2F2018%2F10%2F10%2FDOS%E5%91%BD%E4%BB%A4%2F</url>
+    <content type="text"><![CDATA[Net命令Net命令可以管理网络环境、服务、用户、登录等本地信息。Net命令用法： Net View命令用于显示于列表、计算机列表或指定计算机的共享资源列表。 net vew [computername | /domain[:domainname]]]]></content>
+      <categories>
+        <category>Web渗透技术</category>
+      </categories>
+      <tags>
+        <tag>DOS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[等级保护定义]]></title>
+    <url>%2F2018%2F09%2F22%2F%E7%AD%89%E7%BA%A7%E4%BF%9D%E6%8A%A4%E5%AE%9A%E4%B9%89%2F</url>
+    <content type="text"><![CDATA[等级保护&emsp;&emsp;信息安全等级保护是指对国家秘密信息、法人和其他组织及公民的专有信息以及公开信息和存储、传输、处理这些信息的信息系统分等级实行安全保护，对信息系统中使用的信息安全产品实行按等级管理，对信息系统中发生的信息安全事件分等级响应、处置。等级保护工作分为定级、备案、建设整改、等级测评、监督检查五个环节。 信息系统&emsp;&emsp;信息系统是指由计算机及其相关和配套的设备、设施构成的，按照一定的应用目标和规则对信息进行存储、传输、处理的系统或者网络；信息是指在信息系统中存储、传输、处理的数字化信息。 等级保护原则&emsp;&emsp;自主定级、自主保护 定级&emsp;&emsp;信息系统共划分为五级：&emsp;&emsp;第一级：信息系统遭到破坏后，会对公民、法人和其他组织的合法权益造成损害，但不损害国家安全、社会秩序和公共利益。&emsp;&emsp;第二级：信息系统受到破坏后，会对公民、法人和其他组织的合法权益造成严重损害，或者对社会秩序和公共利益造成损害但不损害国家安全。&emsp;&emsp;第三极：信息系统受到破坏后，会对社会秩序和公共利益造成严重损害，或者对国家安全造成损害。&emsp;&emsp;第四级：信息系统受到破坏后，会对社会秩序和公共利益造成特别严重损害，或者对国家安全造成严重损害。&emsp;&emsp;第五级：信息系统受到破坏后，会对国家安全造成特别严重损害。]]></content>
+      <categories>
+        <category>等级保护</category>
+      </categories>
+      <tags>
+        <tag>等级保护定义</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[openvas]]></title>
+    <url>%2F2018%2F09%2F20%2Fopenvas%2F</url>
+    <content type="text"><![CDATA[更新系统apt-get update apt-get upgrade apt-get dist-upgrade 安装apt-get install openvas* 安装配置openvas openvas-setup 检查安装 openvas-check-setup 配置修改密码 openvasmd --user admin --new-password XXXXXXX 升级openvas-feed-update 启动openvasopenvas-start]]></content>
+      <categories>
+        <category>kali</category>
+      </categories>
+      <tags>
+        <tag>openvas</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[nessus]]></title>
+    <url>%2F2018%2F09%2F20%2Fnessus%2F</url>
+    <content type="text"><![CDATA[下载nessus的deb包https://www.tenable.com/downloads/nessus 安装nessus dpkg -i Nessus*.deb 启动nessus服务 service nessusd start 查看状态 service nessusd status 开机自启动 update-rc.d nessusd enable 获取Keyhttps://www.tenable.com/products/nessus/activation-code]]></content>
+      <categories>
+        <category>kali</category>
+      </categories>
+      <tags>
+        <tag>nessus</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[kali常用配置]]></title>
+    <url>%2F2018%2F09%2F20%2Fkali%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE%2F</url>
+    <content type="text"><![CDATA[更新源首先编辑源文件 vim /etc/apt/sources.list 清华源 deb http://mirrors.tuna.tsinghua.edu.cn/kali kali-rolling main contrib non-free 阿里云源 deb http://mirrors.aliyun.com/kali kali-rolling main non-free contrib 刷新列表并更新软件 apt-get update &amp;&amp; apt-get upgrade -y 软件更新中断时的修复命令 dkpk --configure -a 开启SSH编辑SSH配置文件 vim /etc/ssh/sshd_config 1、找到“PermitRootLogin&quot;，将后边内容删掉，改为”yes“ 2、找到“#PasswordAuthentication yes”，去掉注释 3、添加SSH开机自启动：update-rc.d ssh enable 4、验证SSH服务状态：/etc/init.d/ssh status 搜狗输入法首先下载搜狗输入法的deb包 dpkg -isougouXXXXXXXXX.deb 当然第一次安装会缺少依赖，运行 apt --fix-broken install 当还报错时，安装fcitx框架依赖 apt-get install fcitx 中文浏览器可以安装chrome浏览器 或者汉化kali自带的火狐浏览器 apt -y install firefox-esr-l10n-zh-cn]]></content>
+      <categories>
+        <category>kali</category>
+      </categories>
+      <tags>
+        <tag>kali常用配置</tag>
+      </tags>
+  </entry>
+</search>
