@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>旧模样</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://muzihuakai.github.io/"/>
+  <updated>2018-09-15T05:28:26.000Z</updated>
+  <id>https://muzihuakai.github.io/</id>
+  
+  <author>
+    <name>feifeifeil</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://muzihuakai.github.io/2019/01/13/hello-world/"/>
+    <id>https://muzihuakai.github.io/2019/01/13/hello-world/</id>
+    <published>2019-01-13T15:15:05.682Z</published>
+    <updated>2018-09-15T05:28:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><a id="more"></a><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>DOS命令</title>
+    <link href="https://muzihuakai.github.io/2018/10/10/DOS%E5%91%BD%E4%BB%A4/"/>
+    <id>https://muzihuakai.github.io/2018/10/10/DOS命令/</id>
+    <published>2018-10-10T06:05:34.000Z</published>
+    <updated>2018-10-10T06:16:41.817Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Net命令"><a href="#Net命令" class="headerlink" title="Net命令"></a>Net命令</h3><p>Net命令可以管理网络环境、服务、用户、登录等本地信息。<br>Net命令用法：<br>    Net View命令用于显示于列表、计算机列表或指定计算机的共享资源列表。<br>    net vew [computername | /domain[:domainname]]<br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Net命令&quot;&gt;&lt;a href=&quot;#Net命令&quot; class=&quot;headerlink&quot; title=&quot;Net命令&quot;&gt;&lt;/a&gt;Net命令&lt;/h3&gt;&lt;p&gt;Net命令可以管理网络环境、服务、用户、登录等本地信息。&lt;br&gt;Net命令用法：&lt;br&gt;    Net View命令用于显示于列表、计算机列表或指定计算机的共享资源列表。&lt;br&gt;    net vew [computername | /domain[:domainname]]&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Web渗透技术" scheme="https://muzihuakai.github.io/categories/Web%E6%B8%97%E9%80%8F%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="DOS" scheme="https://muzihuakai.github.io/tags/DOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>等级保护定义</title>
+    <link href="https://muzihuakai.github.io/2018/09/22/%E7%AD%89%E7%BA%A7%E4%BF%9D%E6%8A%A4%E5%AE%9A%E4%B9%89/"/>
+    <id>https://muzihuakai.github.io/2018/09/22/等级保护定义/</id>
+    <published>2018-09-22T12:47:26.000Z</published>
+    <updated>2018-09-22T13:27:38.192Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="等级保护"><a href="#等级保护" class="headerlink" title="等级保护"></a>等级保护</h3><p>&emsp;&emsp;信息安全等级保护是指对国家秘密信息、法人和其他组织及公民的专有信息以及公开信息和存储、传输、处理这些信息的信息系统分等级实行安全保护，对信息系统中使用的信息安全产品实行按等级管理，对信息系统中发生的信息安全事件分等级响应、处置。<br><a id="more"></a><br>等级保护工作分为定级、备案、建设整改、等级测评、监督检查五个环节。</p><h3 id="信息系统"><a href="#信息系统" class="headerlink" title="信息系统"></a>信息系统</h3><p>&emsp;&emsp;信息系统是指由计算机及其相关和配套的设备、设施构成的，按照一定的应用目标和规则对信息进行存储、传输、处理的系统或者网络；信息是指在信息系统中存储、传输、处理的数字化信息。</p><h3 id="等级保护原则"><a href="#等级保护原则" class="headerlink" title="等级保护原则"></a>等级保护原则</h3><p>&emsp;&emsp;自主定级、自主保护</p><h3 id="定级"><a href="#定级" class="headerlink" title="定级"></a>定级</h3><p>&emsp;&emsp;信息系统共划分为五级：<br>&emsp;&emsp;第一级：信息系统遭到破坏后，会对公民、法人和其他组织的合法权益造成损害，但不损害国家安全、社会秩序和公共利益。<br>&emsp;&emsp;第二级：信息系统受到破坏后，会对公民、法人和其他组织的合法权益造成严重损害，或者对社会秩序和公共利益造成损害但不损害国家安全。<br>&emsp;&emsp;第三极：信息系统受到破坏后，会对社会秩序和公共利益造成严重损害，或者对国家安全造成损害。<br>&emsp;&emsp;第四级：信息系统受到破坏后，会对社会秩序和公共利益造成特别严重损害，或者对国家安全造成严重损害。<br>&emsp;&emsp;第五级：信息系统受到破坏后，会对国家安全造成特别严重损害。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;等级保护&quot;&gt;&lt;a href=&quot;#等级保护&quot; class=&quot;headerlink&quot; title=&quot;等级保护&quot;&gt;&lt;/a&gt;等级保护&lt;/h3&gt;&lt;p&gt;&amp;emsp;&amp;emsp;信息安全等级保护是指对国家秘密信息、法人和其他组织及公民的专有信息以及公开信息和存储、传输、处理这些信息的信息系统分等级实行安全保护，对信息系统中使用的信息安全产品实行按等级管理，对信息系统中发生的信息安全事件分等级响应、处置。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="等级保护" scheme="https://muzihuakai.github.io/categories/%E7%AD%89%E7%BA%A7%E4%BF%9D%E6%8A%A4/"/>
+    
+    
+      <category term="等级保护定义" scheme="https://muzihuakai.github.io/tags/%E7%AD%89%E7%BA%A7%E4%BF%9D%E6%8A%A4%E5%AE%9A%E4%B9%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>openvas</title>
+    <link href="https://muzihuakai.github.io/2018/09/20/openvas/"/>
+    <id>https://muzihuakai.github.io/2018/09/20/openvas/</id>
+    <published>2018-09-20T09:32:56.000Z</published>
+    <updated>2018-09-20T09:38:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="更新系统"><a href="#更新系统" class="headerlink" title="更新系统"></a>更新系统</h3><pre><code>apt-get updateapt-get upgradeapt-get dist-upgrade</code></pre><a id="more"></a><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><pre><code>apt-get install openvas*安装配置openvasopenvas-setup检查安装openvas-check-setup</code></pre><h3 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h3><pre><code>修改密码openvasmd --user admin --new-password XXXXXXX</code></pre><h3 id="升级"><a href="#升级" class="headerlink" title="升级"></a>升级</h3><pre><code>openvas-feed-update</code></pre><h3 id="启动openvas"><a href="#启动openvas" class="headerlink" title="启动openvas"></a>启动openvas</h3><pre><code>openvas-start</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;更新系统&quot;&gt;&lt;a href=&quot;#更新系统&quot; class=&quot;headerlink&quot; title=&quot;更新系统&quot;&gt;&lt;/a&gt;更新系统&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;apt-get update
+apt-get upgrade
+apt-get dist-upgrade
+&lt;/code&gt;&lt;/pre&gt;
+    
+    </summary>
+    
+      <category term="kali" scheme="https://muzihuakai.github.io/categories/kali/"/>
+    
+    
+      <category term="openvas" scheme="https://muzihuakai.github.io/tags/openvas/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>nessus</title>
+    <link href="https://muzihuakai.github.io/2018/09/20/nessus/"/>
+    <id>https://muzihuakai.github.io/2018/09/20/nessus/</id>
+    <published>2018-09-20T09:26:16.000Z</published>
+    <updated>2018-09-20T09:31:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="下载nessus的deb包"><a href="#下载nessus的deb包" class="headerlink" title="下载nessus的deb包"></a>下载nessus的deb包</h3><pre><code>https://www.tenable.com/downloads/nessus</code></pre><h3 id="安装nessus"><a href="#安装nessus" class="headerlink" title="安装nessus"></a>安装nessus</h3><a id="more"></a><pre><code>dpkg -i Nessus*.deb启动nessus服务service nessusd start查看状态service nessusd status开机自启动update-rc.d nessusd enable</code></pre><h3 id="获取Key"><a href="#获取Key" class="headerlink" title="获取Key"></a>获取Key</h3><pre><code>https://www.tenable.com/products/nessus/activation-code</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;下载nessus的deb包&quot;&gt;&lt;a href=&quot;#下载nessus的deb包&quot; class=&quot;headerlink&quot; title=&quot;下载nessus的deb包&quot;&gt;&lt;/a&gt;下载nessus的deb包&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;https://www.tenable.com/downloads/nessus
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&quot;安装nessus&quot;&gt;&lt;a href=&quot;#安装nessus&quot; class=&quot;headerlink&quot; title=&quot;安装nessus&quot;&gt;&lt;/a&gt;安装nessus&lt;/h3&gt;
+    
+    </summary>
+    
+      <category term="kali" scheme="https://muzihuakai.github.io/categories/kali/"/>
+    
+    
+      <category term="nessus" scheme="https://muzihuakai.github.io/tags/nessus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>kali常用配置</title>
+    <link href="https://muzihuakai.github.io/2018/09/20/kali%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/"/>
+    <id>https://muzihuakai.github.io/2018/09/20/kali常用配置/</id>
+    <published>2018-09-20T08:34:36.000Z</published>
+    <updated>2018-09-20T09:20:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="更新源"><a href="#更新源" class="headerlink" title="更新源"></a>更新源</h3><pre><code>首先编辑源文件vim /etc/apt/sources.list清华源deb http://mirrors.tuna.tsinghua.edu.cn/kali kali-rolling main contrib non-free阿里云源deb http://mirrors.aliyun.com/kali kali-rolling main non-free contrib</code></pre><a id="more"></a><pre><code>刷新列表并更新软件apt-get update &amp;&amp; apt-get upgrade -y软件更新中断时的修复命令dkpk --configure -a</code></pre><h3 id="开启SSH"><a href="#开启SSH" class="headerlink" title="开启SSH"></a>开启SSH</h3><pre><code>编辑SSH配置文件vim /etc/ssh/sshd_config1、找到“PermitRootLogin&quot;，将后边内容删掉，改为”yes“2、找到“#PasswordAuthentication yes”，去掉注释3、添加SSH开机自启动：update-rc.d ssh enable4、验证SSH服务状态：/etc/init.d/ssh status</code></pre><h3 id="搜狗输入法"><a href="#搜狗输入法" class="headerlink" title="搜狗输入法"></a>搜狗输入法</h3><pre><code>首先下载搜狗输入法的deb包dpkg -isougouXXXXXXXXX.deb当然第一次安装会缺少依赖，运行apt --fix-broken install当还报错时，安装fcitx框架依赖apt-get install fcitx</code></pre><h3 id="中文浏览器"><a href="#中文浏览器" class="headerlink" title="中文浏览器"></a>中文浏览器</h3><pre><code>可以安装chrome浏览器或者汉化kali自带的火狐浏览器apt -y install firefox-esr-l10n-zh-cn</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;更新源&quot;&gt;&lt;a href=&quot;#更新源&quot; class=&quot;headerlink&quot; title=&quot;更新源&quot;&gt;&lt;/a&gt;更新源&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;首先编辑源文件
+vim /etc/apt/sources.list
+清华源
+deb http://mirrors.tuna.tsinghua.edu.cn/kali kali-rolling main contrib non-free
+阿里云源
+deb http://mirrors.aliyun.com/kali kali-rolling main non-free contrib
+&lt;/code&gt;&lt;/pre&gt;
+    
+    </summary>
+    
+      <category term="kali" scheme="https://muzihuakai.github.io/categories/kali/"/>
+    
+    
+      <category term="kali常用配置" scheme="https://muzihuakai.github.io/tags/kali%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/"/>
+    
+  </entry>
+  
+</feed>
